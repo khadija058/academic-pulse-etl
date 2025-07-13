@@ -22,3 +22,8 @@ Thumbs.db
 
 # Temporary files
 *.tmp
+
+# freeCodeCamp files
+freeCodeCamp/
+my_first_script.py
+test_setup.py
