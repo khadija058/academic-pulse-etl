@@ -1,0 +1,14 @@
+ACADEMIC PULSE ETL - SUMMARY REPORT
+==================================================
+Generated: 2025-07-13 21:20:49
+
+Total Feedback Records: 100
+Average Satisfaction: 2.83/5
+Students Surveyed: 100
+Courses Evaluated: 10
+Instructors Assessed: 5
+
+TOP 3 INSTRUCTORS:
+1. INST04: 2.90/5 (21 reviews)
+2. INST05: 2.85/5 (21 reviews)
+3. INST01: 2.82/5 (14 reviews)
