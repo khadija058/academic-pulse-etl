@@ -1,0 +1,50 @@
+{
+  "total_records": 300,
+  "date_generated": "2025-07-13 19:06:26",
+  "unique_students": 151,
+  "unique_courses": 18,
+  "unique_instructors": 10,
+  "semesters_covered": [
+    "Spring2024",
+    "Summer2024",
+    "Fall2023",
+    "Fall2024"
+  ],
+  "rating_distribution": {
+    "overall_rating": {
+      "1": 0,
+      "2": 80,
+      "3": 147,
+      "4": 73,
+      "5": 0
+    },
+    "course_content_rating": {
+      "1": 2,
+      "2": 76,
+      "3": 144,
+      "4": 75,
+      "5": 3
+    },
+    "instructor_effectiveness": {
+      "1": 0,
+      "2": 87,
+      "3": 132,
+      "4": 81,
+      "5": 0
+    }
+  },
+  "data_description": {
+    "student_id": "Unique identifier for each student",
+    "course_id": "Course code identifier",
+    "instructor_id": "Instructor identifier",
+    "semester": "Academic semester",
+    "overall_rating": "Overall course rating (1-5)",
+    "course_content_rating": "Course content quality (1-5)",
+    "instructor_effectiveness": "Instructor teaching effectiveness (1-5)",
+    "difficulty_level": "Perceived course difficulty (1-5)",
+    "workload_rating": "Course workload rating (1-5)",
+    "recommendation_score": "Likelihood to recommend (1-5)",
+    "attendance_rate": "Student attendance rate (0.0-1.0)",
+    "assignment_quality": "Quality of assignments (1-5)"
+  }
+}
