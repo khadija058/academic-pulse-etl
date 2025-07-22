@@ -6,15 +6,15 @@
 
 > **A comprehensive ETL pipeline transforming student feedback data into actionable academic insights**
 
-## 🌟 **Project Highlights**
+##  **Project Highlights**
 
-- **📊 500+ Records Processed** with complete data validation
-- **🎛️ Interactive Dashboard** with real-time filtering and search
-- **📋 Executive Reports** in multiple formats (CSV, TXT)
-- **🏆 Performance Analytics** for instructors and courses
-- **🔧 Professional Code Architecture** with modular design
+- ** 500+ Records Processed** with complete data validation
+- ** Interactive Dashboard** with real-time filtering and search
+- ** Executive Reports** in multiple formats (CSV, TXT)
+- ** Performance Analytics** for instructors and courses
+- ** Professional Code Architecture** with modular design
 
-## 🚀 **Quick Start**
+##  **Quick Start**
 
 ```bash
 # 1. Extract data
